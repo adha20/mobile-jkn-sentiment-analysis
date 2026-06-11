@@ -583,4 +583,4 @@ Output: {"sentiment": "negatif"}
 
 ## Lisensi
 
-Proyek ini dibuat untuk pembelajaran dan portofolio. Jika repository dipublikasikan secara terbuka, tambahkan file lisensi seperti MIT License sesuai kebutuhan.
+Proyek ini dibuat untuk pembelajaran dan portofolio. Feel free untuk di-clone, di-fork, atau dijadikan referensi belajar.
