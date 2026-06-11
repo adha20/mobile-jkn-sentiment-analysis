@@ -1,0 +1,4 @@
+skema,feature_mode,test_size,train_samples,test_samples,train_accuracy,test_accuracy
+Skema 1 - MLP + Word TF-IDF + Lexicon,word,0.2,9600,2400,0.9996875,0.9983333333333333
+Skema 2 - MLP + Char TF-IDF + Lexicon,char,0.2,9600,2400,0.9998958333333333,1.0
+Skema 3 - MLP + Word-Char TF-IDF + Lexicon,word_char,0.3,8400,3600,1.0,0.9997222222222222
