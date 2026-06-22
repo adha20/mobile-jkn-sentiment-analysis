@@ -301,7 +301,7 @@ Penjelasan file:
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/username/nama-repository.git
+git clone https://github.com/adha20/mobile-jkn-sentiment-analysis.git
 cd nama-repository
 ```
 
