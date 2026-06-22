@@ -302,13 +302,7 @@ Penjelasan file:
 
 ```bash
 git clone https://github.com/adha20/mobile-jkn-sentiment-analysis.git
-cd nama-repository
-```
-
-Jika repository langsung berisi folder proyek:
-
-```bash
-cd submission_mobile_jkn
+cd mobile-jkn-sentiment-analysis
 ```
 
 ### 2. Buat virtual environment
